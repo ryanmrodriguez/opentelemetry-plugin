@@ -60,7 +60,7 @@
             <dependency>
                 <groupId>io.prometheus</groupId>
                 <artifactId>simpleclient_bom</artifactId>
-                <version>0.15.0</version>
+                <version>0.16.0</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
@@ -459,7 +459,7 @@
         <dependency>
             <groupId>org.testcontainers</groupId>
             <artifactId>testcontainers</artifactId>
-            <version>1.17.2</version>
+            <version>1.17.3</version>
             <scope>test</scope>
             <exclusions>
                 <exclusion>
